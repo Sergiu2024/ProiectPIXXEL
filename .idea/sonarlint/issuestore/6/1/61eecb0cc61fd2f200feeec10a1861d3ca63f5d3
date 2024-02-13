@@ -1,0 +1,13 @@
+
+V
+java:S1117"4Rename "a" which hides the field declared at line 4.(†æÙ³ùÿÿÿÿ8•‰ˆÜÕ1
+P
+java:S1117	"4Rename "b" which hides the field declared at line 5.(Öªà8˜‰ˆÜÕ1
+E	java:S106
+"+Replace this use of System.out by a logger.(™ùR8­‰ˆÜÕ1
+L	java:S106"+Replace this use of System.out by a logger.(•åÏ©şÿÿÿÿ8³‰ˆÜÕ1
+L	java:S106"+Replace this use of System.out by a logger.(Î—íùÿÿÿÿ8ëŠˆÜÕ1
+L	java:S106"+Replace this use of System.out by a logger.(ışÎÔûÿÿÿÿ8îŠˆÜÕ1
+G	java:S106"+Replace this use of System.out by a logger.(š £‘8ğŠˆÜÕ1
+L	java:S106"+Replace this use of System.out by a logger.(‘‰´ïùÿÿÿÿ8õŠˆÜÕ1
+L	java:S106"+Replace this use of System.out by a logger.(Ø»¤¬ıÿÿÿÿ8øŠˆÜÕ1

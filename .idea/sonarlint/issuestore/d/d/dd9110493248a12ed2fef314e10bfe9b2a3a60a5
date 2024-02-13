@@ -1,0 +1,37 @@
+
+z	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(¶çÖ´şÿÿÿÿ8Ò×Ùí×1
+h
+java:S1301e"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ8Ù×Ùí×1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘8çğÙí×1
+F	java:S106"+Replace this use of System.out by a logger.(§ª½@8’ñÙí×1
+X
+java:S1119";Refactor the code to remove this label and the need for it.(ò„Ú‘8“ñÙí×1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ´ „8”ñÙí×1
+L	java:S106 "+Replace this use of System.out by a logger.(àç•šıÿÿÿÿ8—ñÙí×1
+G	java:S106#"+Replace this use of System.out by a logger.(š¡´¨8˜ñÙí×1
+G	java:S106$"+Replace this use of System.out by a logger.(¼¿‚ß8šñÙí×1
+G	java:S106%"+Replace this use of System.out by a logger.(¸¡£8œñÙí×1
+F	java:S106&"+Replace this use of System.out by a logger.(å¯¦B8ñÙí×1
+L	java:S106'"+Replace this use of System.out by a logger.(‡ı¼¾üÿÿÿÿ8ŸñÙí×1
+L	java:S106("+Replace this use of System.out by a logger.(Ğ§„ùÿÿÿÿ8¡ñÙí×1
+L	java:S1063"+Replace this use of System.out by a logger.(ıèê”şÿÿÿÿ8§ñÙí×1
+L	java:S1064"+Replace this use of System.out by a logger.(¾ïá üÿÿÿÿ8¨ñÙí×1
+L	java:S1066"+Replace this use of System.out by a logger.(½ŠÓÑúÿÿÿÿ8ªñÙí×1
+L	java:S106>"+Replace this use of System.out by a logger.(ÔòˆÆÿÿÿÿÿ8®ñÙí×1
+G	java:S106C"+Replace this use of System.out by a logger.(¢™°Ï8¯ñÙí×1
+F	java:S106H"+Replace this use of System.out by a logger.(ù¤çq8²ñÙí×1
+G	java:S106L"+Replace this use of System.out by a logger.(˜‹’Ñ8³ñÙí×1
+L	java:S106P"+Replace this use of System.out by a logger.(º¦§øøÿÿÿÿ8µñÙí×1
+G	java:S106S"+Replace this use of System.out by a logger.(êÒå8·ñÙí×1
+G	java:S106T"+Replace this use of System.out by a logger.(€ÜÃá8¹ñÙí×1
+G	java:S106U"+Replace this use of System.out by a logger.(“úÅ—8»ñÙí×1
+G	java:S106X"+Replace this use of System.out by a logger.(ş¼ÊÓ8½ñÙí×1
+G	java:S106Y"+Replace this use of System.out by a logger.( ŞÒš8¾ñÙí×1
+G	java:S106\"+Replace this use of System.out by a logger.(ŠïÑÆ8¿ñÙí×1
+L	java:S106]"+Replace this use of System.out by a logger.(®çºĞøÿÿÿÿ8ÁñÙí×1
+L	java:S106^"+Replace this use of System.out by a logger.(¾º¿íüÿÿÿÿ8ÂñÙí×1
+L	java:S106b"+Replace this use of System.out by a logger.(©£·øÿÿÿÿ8ÉñÙí×1
+>	java:S131e""Add a default case to this switch.(™Ïêƒ8ËñÙí×1
+G	java:S106g"+Replace this use of System.out by a logger.(Ÿ—Ó²8ÍñÙí×1
+L	java:S106k"+Replace this use of System.out by a logger.(¥ìì¨ıÿÿÿÿ8ÏñÙí×1

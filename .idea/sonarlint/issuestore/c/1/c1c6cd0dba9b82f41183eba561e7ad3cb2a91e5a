@@ -1,0 +1,14 @@
+
+j
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(‚ÈÂÉ8¾®²Ö1
+j
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(“ú»Á8Ÿ¾®²Ö1
+o
+java:S1104"MMake c a static final constant or non-public and provide accessors if needed.(ïòÊ²ıÿÿÿÿ8Ÿ¾®²Ö1
+b
+java:S1854""@Remove this useless assignment to local variable "constructori".(¼ô¿ãşÿÿÿÿ8üÀ®²Ö1
+S
+java:S1481""1Remove this unused "constructori" local variable.(¼ô¿ãşÿÿÿÿ8©Á®²Ö1
+L	java:S106'"+Replace this use of System.out by a logger.(“ø™øøÿÿÿÿ8®Á®²Ö1
+L	java:S106("+Replace this use of System.out by a logger.(îıÈºıÿÿÿÿ8¯Á®²Ö1
+L	java:S106)"+Replace this use of System.out by a logger.(§Îµÿÿÿÿÿ8°Á®²Ö1

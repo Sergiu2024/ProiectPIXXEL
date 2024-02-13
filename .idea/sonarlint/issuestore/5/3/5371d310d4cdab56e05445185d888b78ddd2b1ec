@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şšª÷ûÿÿÿÿ8¢Â‚ÏÕ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃàØ£ûÿÿÿÿ8ã‡€ÏÕ1
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(†‚Æ±ûÿÿÿÿ8úƒÏÕ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(©òåŸ8ŸúƒÏÕ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ûïî’üÿÿÿÿ8ÀÂ‚ÏÕ1
+G	java:S106"+Replace this use of System.out by a logger.(¯÷Ä™8ÁÂ‚ÏÕ1
+G	java:S106"+Replace this use of System.out by a logger.(÷Šôª8ÃÂ‚ÏÕ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‚Æ±ûÿÿÿÿ8­úƒÏÕ1
+M
+java:S1172"+Remove this unused method parameter "args".(†‚Æ±ûÿÿÿÿ8±úƒÏÕ1
